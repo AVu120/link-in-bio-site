@@ -1,3 +1,3 @@
 ## Link in Bio Template
 
-This is a template repo for a link in bio generator that I'm making, stay tuned 👀
+I used a template repo from [Cassidy Williams](https://www.linkedin.com/in/cassidoo/) to generate this link tree clone. 👀
